@@ -1,0 +1,15 @@
+.Polaris-FormLayout {
+	margin: 2rem 1rem;
+	background-color: white;
+	border-radius: 5px;
+	padding: 2rem;
+	max-width: 500px;
+}
+
+.Polaris-TextContainer {
+	padding-bottom: 2rem;
+}
+
+.Polaris-DatePicker__MonthContainer {
+	margin: 3rem auto;
+}
